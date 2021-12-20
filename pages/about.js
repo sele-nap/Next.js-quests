@@ -4,15 +4,17 @@ export default function AboutPage() {
   return (
     <Layout title="Terms">
       <>
-        It is a long established fact that a reader will be distracted by the
-        readable content of a page when looking at its layout. The point of
-        using Lorem Ipsum is that it has a more-or-less normal distribution of
-        letters, as opposed to using Content here, content here, making it look
-        like readable English. Many desktop publishing packages and web page
-        editors now use Lorem Ipsum as their default model text, and a search
-        for lorem ipsum will uncover many web sites still in their infancy.
-        Various versions have evolved over the years, sometimes by accident,
-        sometimes on purpose (injected humour and the like).
+        Cat ipsum dolor sit amet, one of these days im going to get that red
+        dot, just you wait and see but plan steps for world domination this cat
+        happen now, it was too purr-fect!!! my left donut is missing, as is my
+        right. Kitty power meow in empty rooms or purrr purr littel cat, little
+        cat purr purr my water bowl is clean and freshly replenished, so ill
+        drink from the toilet or reaches under door into adjacent room but
+        demand to be let outside at once, and expect owner to wait for me as i
+        think about it eat a plant, kill a hand. Stare at ceiling light bird
+        bird bird bird bird bird human why take bird out i could have eaten
+        that, milk the cow so cats go for world domination. Loved it, hated it,
+        loved it, hated it.
       </>
     </Layout>
   );

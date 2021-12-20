@@ -1,9 +1,9 @@
-import Layout from "./Layout";
+import styles from "../styles/Home.module.css";
 
 export default function Footer() {
   return (
     <>
-      <p>© 2021 This is a footer, yep</p>
+      <p className={styles.footer}>This is a footer, yep</p>
     </>
   );
 }
