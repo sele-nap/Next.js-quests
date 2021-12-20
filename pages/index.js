@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 
 export default function IndexPage() {
   useEffect(() => {
-    console.log("index page did mount");
+    console.log("a beautiful index page");
   }, []);
 
   return (
